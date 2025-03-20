@@ -1,4 +1,4 @@
-# Final Project: [Project Name]
+# Final Project: Emotion Detection using Flask
 Created an Emotion Detection application using the functions from embeddable AI libraries
 
 Extracted relevant information from the output received from the function
